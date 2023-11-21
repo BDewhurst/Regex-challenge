@@ -1,0 +1,15 @@
+/home/brad1996/Csharp-course/regex/bin/Debug/net7.0/regex
+/home/brad1996/Csharp-course/regex/bin/Debug/net7.0/regex.deps.json
+/home/brad1996/Csharp-course/regex/bin/Debug/net7.0/regex.runtimeconfig.json
+/home/brad1996/Csharp-course/regex/bin/Debug/net7.0/regex.dll
+/home/brad1996/Csharp-course/regex/bin/Debug/net7.0/regex.pdb
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/regex.csproj.AssemblyReference.cache
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/regex.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/regex.AssemblyInfoInputs.cache
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/regex.AssemblyInfo.cs
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/regex.csproj.CoreCompileInputs.cache
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/regex.dll
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/refint/regex.dll
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/regex.pdb
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/regex.genruntimeconfig.cache
+/home/brad1996/Csharp-course/regex/obj/Debug/net7.0/ref/regex.dll
